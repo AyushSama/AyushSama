@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushSama
 - 👀 I’m interested in software developing.
-- 🌱 I’m currently learning DSA , web development and computer graphics.
+- 🌱 I have worked on web development , android development and blockchain technologies.
 - 💞️ I’m looking to collaborate on projects on web development.
 - 📫 How to reach me aayush0029@gmail.com //8828350426
 
